@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippinguonnect",
+        "uuid": 30607500,
+        "checksum": "wch43"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
